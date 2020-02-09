@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+}
+body {
+    background-color: grey !important;
+    height: 100%;
+}
+
+.body_content {
+    background-color: lightgrey;
+    max-width: 800px;
+    height: 100%;
+    overflow-y:auto;
+    margin: auto;
+}
+
+.form {
+    padding-top: 30%;
+    text-align: center;
+}
+
+label {
+    margin: 0 !important;
+}
